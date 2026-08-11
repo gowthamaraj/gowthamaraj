@@ -1,16 +1,19 @@
 ### Gowthamaraj Rajendran
-Threat Detection Engineer building detection & response systems at scale — currently at **Meta**, previously **Cisco (Splunk)**.
 
-I work across the full detection lifecycle: pipelines that ingest and normalize telemetry from endpoint/cloud/network/identity sources, detections mapped to MITRE ATT&CK, automated response, and — more recently — using LLM agents to compress detection logic and accelerate triage.
+Detection and response engineer at Meta. Before that I built detection content for Splunk Enterprise Security at Cisco.
 
-- 🔭 Owner of 90+ production detections across cloud, DNS, endpoint, and AI agent surfaces (100% ATT&CK TTP coverage)
-- 📚 Formerly built detection content for **Splunk Enterprise Security**, published to the Security Content library used by thousands of orgs
-- 🎤 Spoke at **DEF CON 33 Cloud Village** (cross-cloud detection & response) and **fwd:cloudsec NA 2023** (Sigma-lens)
-- 🐛 5 CVEs published · Hall of Fame: Walmart, United Nations, American Express
-- 🎓 MS Information Security, Carnegie Mellon University
-- 🏅 OSCE3, OSEP, OSWE, OSED, OSCP, OSWA, SSCP, CCNA
+Most of my work sits in the detection lifecycle: getting telemetry from cloud, endpoint, DNS, and identity sources into something usable, writing detections that map to ATT&CK, and building the automation that gets an analyst from alert to answer faster. Lately that includes figuring out how to detect AI agents attacking infrastructure at machine speed, which turns out to be a genuinely new problem, not just a faster version of the old one.
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/gowthamaraj-rajendran) · [Blog](https://gowthamarajr.medium.com/) · [Google Scholar](https://scholar.google.com/citations?user=9d7SpIQAAAAJ&hl=en) (200+ citations)
+A few things worth knowing:
+
+- I own 90+ production detections at Meta across cloud, DNS, endpoint, and AI agent surfaces, with full ATT&CK TTP coverage.
+- Before Meta, I wrote 100+ detections for Splunk Enterprise Security, published to the Security Content library and running in production at thousands of companies.
+- Spoke at DEF CON Cloud Village in 2025 (cross cloud detection and response) and again in 2026 ("When Machines Attack Machines: Detecting AI Autonomous Cloud Compromise at NHI Scale"), plus fwd:cloudsec NA 2023 on Sigma based detection engineering.
+- 5 published CVEs, and hall of fame credits from Walmart, the UN, and American Express.
+- MS in Information Security, Carnegie Mellon University.
+- OSCE3, OSEP, OSWE, OSED, OSCP, OSWA, SSCP, CCNA.
+
+Links: [LinkedIn](https://www.linkedin.com/in/gowthamaraj-rajendran) | [Blog](https://gowthamarajr.medium.com/) | [Google Scholar](https://scholar.google.com/citations?user=9d7SpIQAAAAJ&hl=en) (200+ citations)
 
 ---
 
@@ -18,8 +21,8 @@ I work across the full detection lifecycle: pipelines that ingest and normalize 
 
 | Project | What it is |
 |---|---|
-| [OSINT-Explorer](https://github.com/gowthamaraj/OSINT-Explorer) | Modernized OSINT framework — hierarchical, YAML-configured tool catalog with interactive visualization |
-| [MultiBurst](https://github.com/gowthamaraj/MultiBurst) | Distributed scanning infrastructure — orchestrates large-scale content discovery across ephemeral droplets via Ansible/Terraform |
-| [zoom-scraper](https://github.com/gowthamaraj/zoom-scraper) | Forensic artifact collection tool for video-conferencing software |
-| [CodeWhisper](https://github.com/gowthamaraj/CodeWhisper) | Extracts developer comments/notes left behind in deployed web content |
-| [shodan-autobot](https://github.com/gowthamaraj/shodan-autobot) | Shodan API automation for attack-surface enumeration |
+| [OSINT-Explorer](https://github.com/gowthamaraj/OSINT-Explorer) | Modernized OSINT framework with a hierarchical, YAML configured tool catalog and interactive visualization |
+| [MultiBurst](https://github.com/gowthamaraj/MultiBurst) | Distributed scanning infrastructure that orchestrates large scale content discovery across ephemeral droplets via Ansible/Terraform |
+| [zoom-scraper](https://github.com/gowthamaraj/zoom-scraper) | Forensic artifact collection tool for video conferencing software |
+| [CodeWhisper](https://github.com/gowthamaraj/CodeWhisper) | Pulls developer comments and notes left behind in deployed web content |
+| [shodan-autobot](https://github.com/gowthamaraj/shodan-autobot) | Shodan API automation for attack surface enumeration |
