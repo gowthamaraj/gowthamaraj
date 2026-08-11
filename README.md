@@ -8,7 +8,8 @@ A few things worth knowing:
 
 - I own 90+ production detections at Meta across cloud, DNS, endpoint, and AI agent surfaces, with full ATT&CK TTP coverage.
 - Before Meta, I wrote 100+ detections for Splunk Enterprise Security, published to the Security Content library and running in production at thousands of companies.
-- Spoke at DEF CON Cloud Village in 2025 (cross cloud detection and response) and again in 2026 ("When Machines Attack Machines: Detecting AI Autonomous Cloud Compromise at NHI Scale"), plus fwd:cloudsec NA 2023 on Sigma based detection engineering.
+- DEF CON speaker three years running: Cloud Village 2025 on cross cloud detection and response, Cloud Village 2026 on detecting AI autonomous cloud compromise at non human identity scale, and Red Team Village 2026 running "Zero Signal: Operating Where Defenders Can't See," a hands on tactic table on cloud intrusions that leave zero endpoint telemetry.
+- Also spoke at fwd:cloudsec NA 2023 on Sigma based detection engineering.
 - 5 published CVEs, and hall of fame credits from Walmart, the UN, and American Express.
 - MS in Information Security, Carnegie Mellon University.
 - OSCE3, OSEP, OSWE, OSED, OSCP, OSWA, SSCP, CCNA.
