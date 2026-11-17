@@ -6,15 +6,14 @@ Most of my work sits in the detection lifecycle: getting telemetry from cloud, e
 
 A few things worth knowing:
 
-- I own 90+ production detections at Meta across cloud, DNS, endpoint, and AI agent surfaces, with full ATT&CK TTP coverage.
-- Before Meta, I wrote 100+ detections for Splunk Enterprise Security, published to the Security Content library and running in production at thousands of companies.
-- DEF CON speaker three years running: Cloud Village 2025 on cross cloud detection and response, Cloud Village 2026 on detecting AI autonomous cloud compromise at non human identity scale, and Red Team Village 2026 running "Zero Signal: Operating Where Defenders Can't See," a hands on tactic table on cloud intrusions that leave zero endpoint telemetry.
-- Also spoke at fwd:cloudsec North America 2026 on “Schrödinger's Detection: Finding the 'Zombie' Rules in Your SIEM”.
+- Before Meta, I was a Threat Researcher at Splunk (Cisco), where I worked on open-source detection content and tools such as Attack Range.
+- DEF CON speaker two years running: Cloud Village 2025 on cross cloud detection and response, Cloud Village 2026 on detecting AI autonomous cloud compromise at non human identity scale, and Red Team Village 2026 running "Zero Signal: Operating Where Defenders Can't See," a hands on tactic table on cloud intrusions that leave zero endpoint telemetry.
+- Also spoke at fwd:cloudsec North America 2026 on "Schrödinger's Detection: Finding the 'Zombie' Rules in Your SIEM".
 - 5 published CVEs, and hall of fame credits from the UN.
 - MS in Information Security, Carnegie Mellon University.
 - OSCE3, OSEP, OSWE, OSED, OSCP, OSWA, SSCP, CCNA.
 
-Links: [LinkedIn](https://www.linkedin.com/in/gowthamarajr) | [Blog](https://gowthamarajr.medium.com/) | [Google Scholar](https://scholar.google.com/citations?user=9d7SpIQAAAAJ&hl=en) (200+ citations)
+Links: [LinkedIn](https://www.linkedin.com/in/gowthamarajr) | [Blog](https://threatdetectionlabs.com) | [Google Scholar](https://scholar.google.com/citations?user=9d7SpIQAAAAJ&hl=en) (200+ citations)
 
 ---
 
